@@ -1,0 +1,10 @@
+{
+  "Empty Cage": {
+    "NAME": "Empty Cage",
+    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Upon pickup, remove up to #b3 cards from your deck.",
+      "Choose up to 3 Cards to Remove."
+    ]
+  }
+}

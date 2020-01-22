@@ -1,0 +1,16 @@
+{
+  "modid": "EmptierCage",
+  "name": "Emptier Cage",
+  "author_list": [
+    "JohnnyBazooka89"
+  ],
+  "credits": "Rita-B - Simplified Chinese localization",
+  "description": "This mod changes Well-Laid Plans to cost 0, instead of 1.\n\nIf you want to play with the old version of Well-Laid Plans, before it was nerfed.\n\n\n\n计划更妥当\n\n将计划妥当从1费变回之前的0费（计划被削之前）",
+  "version": "${project.version}",
+  "dependencies": [
+    "basemod"
+  ],
+  "sts_version": "01-16-2020",
+  "mts_version": "3.15.0",
+  "update_json": "https://api.github.com/repos/JohnnyBazooka89/StSModEmptierCage/releases/latest"
+}
